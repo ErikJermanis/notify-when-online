@@ -1,2 +1,6 @@
 # notify-when-online
-Shell script for checking website statuses
+
+A simple shell script for checking a website status.
+
+### Usage
+`./nvo example.com`
